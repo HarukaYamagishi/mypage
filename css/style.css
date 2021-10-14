@@ -1,0 +1,35 @@
+h2 {
+  color: blue;
+}
+
+.superimportant {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#fst {
+  color: green;
+}
+
+.resizeimage {
+  width: 80%;
+}
+
+/* 参考　https://www.naaavi.com/table-design-sample/ */
+#noouterframe {
+  text-align: center;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+#noouterframe th{
+  padding: 10px 30px;
+  border-bottom: solid 4px #778ca3;
+  color: #778ca3
+}
+
+#noouterframe td{
+  padding: 10px 30px;
+  border-bottom: solid 1px #778ca3;
+}
